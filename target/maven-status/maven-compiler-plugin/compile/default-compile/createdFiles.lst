@@ -1,0 +1,10 @@
+ru\sbt\database\PeopleRepository.class
+ru\sbt\Main.class
+ru\sbt\database\DataBaseConfig.class
+ru\sbt\App.class
+ru\sbt\model\People.class
+generated\ObjectFactory.class
+generated\People.class
+ru\sbt\database\PeopleService.class
+generated\Employee.class
+ru\sbt\Shiporder.class

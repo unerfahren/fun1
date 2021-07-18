@@ -1,0 +1,13 @@
+<people  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="employee.xsd">
+    <employee>
+        <firstName>fafa</firstName>
+        <id>123</id>
+        <lastName>fafa</lastName>
+    </employee>
+    <employee>
+        <firstName>fafa</firstName>
+        <id>123</id>
+        <lastName>fafa</lastName>
+    </employee>
+</people>
