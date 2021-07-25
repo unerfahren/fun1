@@ -10,7 +10,6 @@ import ru.sbt.model.People;
 import java.util.List;
 
 @RestController
-@RequestMapping("/test")
 public class TestController {
 
     private final PeopleService peopleService;
