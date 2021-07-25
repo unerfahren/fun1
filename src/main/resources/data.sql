@@ -4,4 +4,4 @@ create table people (
                         NAME varchar,
                         AGE int,
                         HEIGHT int
-) AS SELECT * from CSVREAD('src\main\resources\data.csv',null,null)
+) AS SELECT * from CSVREAD('classpath:data.csv',null,null)
